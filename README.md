@@ -157,3 +157,6 @@ Tämä on Flutterin paras käytäntö ja estää resurssivuotoja.
 
 * **Testaus:**
   Widget-testit kattavat keskeiset käyttäjäpolut.
+
+### Kuvaesimerkki
+<img width="1511" height="609" alt="värisuunnitelma" src="https://github.com/user-attachments/assets/d361d393-2b28-4858-8a50-20eb1c2d564c" />
