@@ -1,0 +1,65 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Test Assignment - Hide Solutions and Evaluation Materials
+# These files contain answers and scoring information that candidates should not see
+SOLUTIONS.md
+EVALUATION_GUIDE.md
+evaluation_schema.json
+auto_evaluate.sh
+AI_EVALUATION_TEMPLATE.md
+RECRUITER_GUIDE.md
+evaluation_report.json
+BUG_LOCATIONS.md
+
+# Keep only these files visible to candidates:
+# - README.md (assignment instructions)
+# - lib/main.dart (buggy code to fix)
+# - test/widget_test.dart (basic tests)
+# - pubspec.yaml (dependencies)
+# - analysis_options.yaml (linting rules)
+# Snyk Security Extension - AI Rules (auto-generated)
+.github/instructions/snyk_rules.instructions.md
+
+submissions/
